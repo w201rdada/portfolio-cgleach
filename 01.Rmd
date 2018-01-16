@@ -1,24 +1,26 @@
-# My first cool idea {#slug-one}
+Traffic, Congestion, and Dynamic Pricing.
 
 #### Keywords {-}
 
-yaba, daba, do
+Dynamic pricing, traffic, congestion, jam
 
 ## A beginning.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+Over the past decade the United States has seen a sustained trend of individuals moving from the periphery into urban centers.  Unfortunately, the infastructure required to accomodate these demographic shifts has not been built, and as a result traffic has increased.  And while it may be easy to forget, traffic doesn't simply cause emotional and mental anguish!  In 2013 The Centre for Economics and Business Research, in collaboration with INRIX, released a study that estimated the cost of congestion to be $1,700 for a car owning household.
+
 
 ## A middle.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+In the absense of massive infastructure investment, states must begin to consider alternatives to reduce both the direct and indirect costs of traffic.  One solution would be to implement dynamic pricing, charging individuals a variable rate to drive on a highway depending on specific factors, such as time of day, road conditions, etc.  If done correctly, this has the potential to significantly reduce traffic and raise money which can be used to fund additional projects.  In many ways this would represent a form of price discovery, with individuals who are willing to pay more doing so, and those who could chooes to drive at a different time having the option to save money. However if this undertaking is to be achieved, a complex model capable of predicting traffic given a variety of inputs must be created.  
+
+A MVP of this model could be designed using publically available traffic, weather, demographic, and toll data.  Several model types should be considered, including a random forest and varying neural net approaches.  As state's begin to implement this model their new data would feed back into the system, helping to improve the efficacy of the model.  Because of this, the project has the potential for exponential data growth, and a robust storage and machine learning stack will be required that can easily scale. (AWS/Google Cloud, etc.)
 
 <!-- ...or include images directly from the web. Cite your sources! -->
 ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
 knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
 ```
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
-
 ## An end.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+Upon the completion of the model, states would have the ability to model their expected  traffic vs. price function, and take steps to more appropriately allign reality with the state's societal and economic goals.  If implemented, the expectation would be an increase in economic activity, and a reduction in lost time.  Yet this proposal is not without flaws, primarily stemming from the potential inequity this solution may create.  Those at the bottom of the socio-economic ladder may find themselves in a position where they are unable to travel during certain times because the system is price prohibitive.  In the most extreme case, individuals may find themselves in a de facto prison, unable to realistically travel at will.  
+
