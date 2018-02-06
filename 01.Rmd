@@ -1,5 +1,4 @@
-
-## Title
+# My First Cool Idea
 Traffic, Congestion, and Dynamic Pricing.
 
 #### Keywords {-}
