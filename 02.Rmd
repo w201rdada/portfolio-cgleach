@@ -13,10 +13,6 @@ Drug and alcohol addiction has far reaching consequences both for users, and for
 Addicts will often tell you that there are certain triggers that help precipitate relapse, and in some cases they are only evident after the fact.  Yet it is highly possible, even probable, that deep learning could pinpoint changes in behavioral patterns, and could in turn launch a targeted intervention to help reduce the probability of relapse.  This proposal posits that a mobile app, which is granted permissions across the device (texts, web history, app data, location, etc.) could preemptively identify behaviors which predict relapse.  The model would combine NLP (texts & web history) with additional variables to predict relapse, and then intervene (e.g. NLP identifies anger in most recent texts, followed by location data which indicates driving to a distance within some distance of a bar...text the user with the message they created for themselves when using the app)
 
 
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
-
 
 ## An end.
 No solution will ever completely eliminate addiction, and this approach can at best consitute an additional tool to accompany the necessary changes in our society; however, if we as a society fail to use new technologies to benefit the most vulnerable we will have missed an enormous opportunity.
