@@ -2,7 +2,7 @@
 
 #### Keywords {-}
 
-NLP, machine learning, deep learning, addiction, sobriety, overdose
+NLP, machine learning, deep learning, addiction, sobriety, overdose, relapse
 
 ## A beginning.
 
