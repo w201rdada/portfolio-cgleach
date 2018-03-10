@@ -34,7 +34,7 @@ The second question is one better suited for analytics, however before any analy
 
 In the end, it may be possible that the dynamics of addiction are too complex to predict, or the trends too weak to be useful.  And even given a perfect outcome in this first research stage, no solution will ever eliminate addiction, with this approach at best constituting an additional tool.  However, given the scope of this problem, even minor improvements in the status quo translate to significant human and financial savings.  Take a second to imagine what society would look like if the efficacy of our addiction treatment improved.  Isn't that a world worth pursuing?
 
-##Bibliography
+## Bibliography
 
 National Institute of Drug Abuse. (2017, September 15). Overdose Death Rates. Retrieved March 09, 2018, from https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates
 
