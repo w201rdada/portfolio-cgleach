@@ -8,7 +8,7 @@ NLP, machine learning, deep learning, addiction, sobriety, overdose, relapse
 
 Drug and alcohol addiction has far reaching consequences both for users, and society writ large: In 2016 it is estimated that 64,000 individuals died due to overdose, with societal costs in the hundreds of billions (National Institue on Drug Abuse).  And while our understanding of the brain, and more importantly, human behvaior has progressed over the past 50 years, our primary method for helping individuals maintain sobriety has not.  Despite all of humanities advancements the 12 step program continues to serve as the standard treatment option.
 
-```{r Rising Alcoholism Rates,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
+```{r Rising Alcoholism Rates,echo=FALSE,fig.align='center',out.width='50%'}
 knitr::include_graphics('img/alcoholism_prevalence.png')
 ```
 
