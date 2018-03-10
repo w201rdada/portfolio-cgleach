@@ -14,10 +14,27 @@ Addicts will often tell you that there are certain triggers that help precipitat
 
 To some extent a paradigm shift is already underway, with companies like Ginger.io and Talkspace bringing traditional mental health services to user's mobile devices.  However, there is a crucial shortcoming in these offerings: Current services focus on providing support reactively--only when the user requests it--rather than proactively.  This approach will fail if either 1) the individual chooses not to reach out in their most vulnerable moment, or 2) the journey to that moment begins much earlier.  A mobile app, granted permissions across the user's device (texts, web history, app data, location, etc.), could resolve both of these problems through proactive intervention.
 
-# testing what this looks like
+### Product Vision
+
+The polished product will be capable of monitoring user behavior in real time and interveneing if the backend algorithm suggests there is a high probability of relapse.  The method(s) of intervention would be configurable, and would range from a pre-written push notification, to specific parties being notified (e.g. Sponser).  Additionally, applicable partnerships would be sought out to stregthen the value proposition of the product such as providing listings for AA meetings.  This offering will serve as an effective tool to be used in a stand-alone setting, or in conjuncture with other treatment options.  
 
 
-While the aforementioned product is the ultimate vision, this project is most likely to succeed in an iterative and agile environment.  As such, the first stage would omit engineering, and would instead focus on answering the following two questions: 1) Is targetted intervention immediately prior to a relapse effective at preventing it, and 2) can a user's mobile activity predict sobriety?  The answer to the first question is difficult to solve in a purely quantative fashion, as a technological approach to sobriety is somewhat novel; however, qualatitive/anecdotal evidence through surveys of addicts and addiction specialists may help shed light on this topic.  The second questions is one ripe for analytics!  To begin, a data set would need to be created which includes users, all of their mobile activity, and the associated relapse times of each individual.  The data set would not be perfect, as dates/times of relapses would be derived from memory, and the data set would be constructed entirely from volunteers.  However, a large enough sample population would mitigate these concerns.  Once the data is procurred and cleaned, a variety of machine learning techniques could be applied in an effort to see if any of them are predictive.  In the event the initial findings are positive, next steps can be taken to move the initiative forward.
+### Stage 1 Roadmap & Approach
+
+While the aforementioned product is the ultimate vision, it can not be built without further research.   As such, the first stage would omit engineering, and would instead focus on answering the following two questions: 
+        
+        1) Is targetted intervention immediately prior to a relapse an effective prevention strategy?
+        2) Are user's mobile activities predictive of relapse?  
+        
+        The answer to the first question is difficult to solve in a purely quantative fashion, as a technological approach to sobriety is somewhat novel; however, qualatitive/anecdotal evidence through surveys of addicts and addiction specialists may help shed light on this topic.
+        
+        The second question is one ripe for analytics! To begin a data set would need to be constructed of mobile activity along with relapse times and locations; there are two main challenges to this step.  First, the data would not be perfect, as dates/times of relapses would be derived from memory, and second, a volunteer population in the tens of thousands would need to be procurred.  These are legitimate roadblocks, however by partnering with hospitals, AA, and other institutions it may be possible to obtain the necessary data.  Once the data is clean, a variety of data science techniques can be applied in an attempt to output a 'relapse probability score'.  Because there are so many different forms of mobile data, it would be best to bifurcate the data between  quantatitive data  (location, date, time, etc.) and linguistic data (text content, web search history, etc.).  The initial approach would be to use XGBoost (classifier) for the quantitative data, and a neural net for linguistic data.  In the event these approaches fail to produce significant results other methods will be tried.
+        
+    
+
+### Privacy concerns
+
+
 
 ## A small, but necessary step towards the future.
 In the end, it may be possible that the dynamics of addiction are too complex to predict, or the trends too weak to be useful.  And even given a perfect outcome in this first research stage, no solution will ever completely eliminate addiction, with this approach at best constituting an additional tool.  However, if we as a society fail to explore new technologies which might benefit the most vulnerable then we will have missed an enormous opportunity. 
