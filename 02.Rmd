@@ -6,7 +6,7 @@ NLP, machine learning, deep learning, addiction, sobriety, overdose, relapse
 
 ## Society's incomplete approach
 
-Drug and alcohol addiction has far reaching consequences both for users, and society writ large: In 2016 it is estimated that 64,000 individuals died due to overdose, with societal costs in the hundreds of billions ("Overdose-death-rates",2017).  And while our understanding of the brain, nd more importantly, human behvaior has progressed over the past 50 years, our primary method for helping individuals maintain sobriety has not.  Despite all of humanities advancements the 12 step program continues to serve as the standard treatment option. 
+Drug and alcohol addiction has far reaching consequences both for users, and society writ large: In 2016 it is estimated that 64,000 individuals died due to overdose, with societal costs in the hundreds of billions (National Institue on Drug Abuse).  And while our understanding of the brain, nd more importantly, human behvaior has progressed over the past 50 years, our primary method for helping individuals maintain sobriety has not.  Despite all of humanities advancements the 12 step program continues to serve as the standard treatment option. 
 
 Addicts will often tell you that there are certain triggers that help precipitate relapse (e.g. Holidays), but in some cases they are only evident after the fact, or not evident to the human eye.  Yet, could it be possible for deep learning to pinpoint these triggers via changes in behavioral patterns, and use this information to launch targeted interventions to reduce the probability of relapse?  This proposal posits that the 12 step program is an incomplete solution, and that the efficacy of addiction treatment can be bolstered by capitalizing on the advances in data science and the near complete integration humans now have with technology.
 
@@ -34,6 +34,9 @@ The second question is one better suited for analytics, however before any analy
 
 In the end, it may be possible that the dynamics of addiction are too complex to predict, or the trends too weak to be useful.  And even given a perfect outcome in this first research stage, no solution will ever eliminate addiction, with this approach at best constituting an additional tool.  However, given the scope of this problem, even minor improvements in the status quo translate to significant human and financial savings.  Take a second to imagine what society would look like if the efficacy of our addiction treatment improved.  Isn't that a world worth pursuing?
 
-https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates
-https://www.drugabuse.gov/related-topics/trends-statistics
+#Bibliography
+
+National Institute of Drug Abuse. (2017, September 15). Overdose Death Rates. Retrieved March 09, 2018, from https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates
+
+National Institute of Drug Abuse. (2017, April 24). Trends & Statistics. Retrieved March 09, 2018, from https://www.drugabuse.gov/related-topics/trends-statistics
 
