@@ -4,7 +4,7 @@
 
 NLP, machine learning, deep learning, addiction, sobriety, overdose, relapse
 
-## Society's incomplete approach
+## Society's incomplete approach to addiction 
 
 Drug and alcohol addiction has far reaching consequences both for users, and society writ large: In 2016 it is estimated that 64,000 individuals died due to overdose, with societal costs in the hundreds of billions (National Institue on Drug Abuse).  And while our understanding of the brain, nd more importantly, human behvaior has progressed over the past 50 years, our primary method for helping individuals maintain sobriety has not.  Despite all of humanities advancements the 12 step program continues to serve as the standard treatment option. 
 
@@ -30,7 +30,7 @@ The answer to the first question is difficult to solve in a purely quantitative 
         
 The second question is one better suited for analytics, however before any analysis can be done a data set would need to be constructed of mobile activity along with relapse times and locations; there are two main challenges to this step.  First, the data would not be perfect, as dates/times of relapses would be derived from memory, and second, a volunteer population in the tens (or hundreds!) of thousands would need to be procured.  These are legitimate roadblocks, however by partnering with hospitals, AA, and other institutions and anonymizing the data, it may be possible to obtain the necessary data, especially since volunteers would know the data is being used for a cause they are personally close to.  Once the data is clean, a variety of data science techniques can be applied in an attempt to output a 'relapse probability score'.  Because there are so many different forms of mobile data, it would be best to bifurcate the data between quantitative data (location, date, time, etc.) and linguistic data (text content, web search history, etc.).  The initial approach would be to use XGBoost (classifier) for the quantitative data, and a neural net for linguistic data.  Assuming significant results are obtained, the project would proceed to stage 2, where the mobile applications and product backend are constructed.
         
-## A small, but necessary step towards the future.
+## A small step towards the future.
 
 In the end, it may be possible that the dynamics of addiction are too complex to predict, or the trends too weak to be useful.  And even given a perfect outcome in this first research stage, no solution will ever eliminate addiction, with this approach at best constituting an additional tool.  However, given the scope of this problem, even minor improvements in the status quo translate to significant human and financial savings.  Take a second to imagine what society would look like if the efficacy of our addiction treatment improved.  Isn't that a world worth pursuing?
 
