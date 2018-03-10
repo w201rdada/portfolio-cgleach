@@ -6,11 +6,13 @@ NLP, machine learning, deep learning, addiction, sobriety, overdose, relapse
 
 ## Society's incomplete approach to addiction 
 
-Drug and alcohol addiction has far reaching consequences both for users, and society writ large: In 2016 it is estimated that 64,000 individuals died due to overdose, with societal costs in the hundreds of billions (National Institue on Drug Abuse).  And while our understanding of the brain, nd more importantly, human behvaior has progressed over the past 50 years, our primary method for helping individuals maintain sobriety has not.  Despite all of humanities advancements the 12 step program continues to serve as the standard treatment option. 
+Drug and alcohol addiction has far reaching consequences both for users, and society writ large: In 2016 it is estimated that 64,000 individuals died due to overdose, with societal costs in the hundreds of billions (National Institue on Drug Abuse).  And while our understanding of the brain, and more importantly, human behvaior has progressed over the past 50 years, our primary method for helping individuals maintain sobriety has not.  Despite all of humanities advancements the 12 step program continues to serve as the standard treatment option.
+
+```{r Rising Alcoholism Rates,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
+knitr::include_graphics('img/alcoholism_prevalence.png')
+```
 
 Addicts will often tell you that there are certain triggers that help precipitate relapse (e.g. Holidays), but in some cases they are only evident after the fact, or not evident to the human eye.  Yet, could it be possible for deep learning to pinpoint these triggers via changes in behavioral patterns, and use this information to launch targeted interventions to reduce the probability of relapse?  This proposal posits that the 12 step program is an incomplete solution, and that the efficacy of addiction treatment can be bolstered by capitalizing on the advances in data science and the near complete integration humans now have with technology.
-
-knitr::include_graphics('img/alcoholism_prevalence.png')
 
 ## Bringing modernity to addiction treatment.
 
@@ -18,7 +20,7 @@ To some extent a paradigm shift is already underway, with companies like Ginger.
 
 #### Product Vision
 
-The polished product will be capable of monitoring user behavior in real time, and intervening if the backend algorithm suggests there is a high probability of relapse.  The method(s) of intervention would be configurable, and would range from a pre-written push notification, to specific parties being notified (e.g. Sponsor).  Additionally, applicable partnerships would be sought out to strengthen the value proposition of the product, such as providing listings for AA meetings.  The hope is that this offering will serve as an effective tool to be used either in a stand-alone fashion, or in conjuncture with other treatment options.  
+The polished product will be capable of monitoring user behavior in real time, and intervening if the backend algorithm suggests there is a high probability of relapse.  The method(s) of intervention would be configurable, and would range from a pre-written push notification, to specific parties being notified (e.g. Sponsor).  Additionally, applicable partnerships would be sought out to strengthen the value proposition of the product, such as providing listings for AA/NA meetings.  The hope is that this offering will serve as an effective tool to be used either in a stand-alone fashion, or in conjuncture with other treatment options.  
 
 
 #### Stage 1 Roadmap & Approach
