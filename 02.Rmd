@@ -14,12 +14,12 @@ Addicts will often tell you that there are certain triggers that help precipitat
 
 To some extent a paradigm shift is already underway, with companies like Ginger.io and Talkspace bringing traditional mental health services to user's mobile devices.  However, there is a crucial shortcoming in these offerings: Current services focus on providing support reactively--only when the user requests it--rather than proactively.  This approach will fail if either 1) the individual chooses not to reach out in their most vulnerable moment, or 2) the journey to that moment begins much earlier.  A mobile app, granted permissions across the user's device (texts, web history, app data, location, etc.), could resolve both problems through proactive intervention.
 
-### Product Vision
+#### Product Vision
 
 The polished product will be capable of monitoring user behavior in real time and intervening if the backend algorithm suggests there is a high probability of relapse.  The method(s) of intervention would be configurable, and would range from a pre-written push notification, to specific parties being notified (e.g. Sponsor).  Additionally, applicable partnerships would be sought out to strengthen the value proposition of the product such as providing listings for AA meetings.  This offering will serve as an effective tool to be used in a stand-alone setting, or in conjuncture with other treatment options.  
 
 
-### Stage 1 Roadmap & Approach
+#### Stage 1 Roadmap & Approach
 
 While the aforementioned product is the ultimate vision, it cannot be built without further research.   As such, the first stage would omit engineering, and would instead focus on answering the following two questions: 
         
