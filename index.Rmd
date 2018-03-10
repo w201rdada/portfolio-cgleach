@@ -35,7 +35,7 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 My first idea revolves around the use of new data science techniques to solve one of the biggest challenges in urban planning: Traffic!  The aim is to use cutting edge techniques to empower stakeholders to employ dynamic pricing in order to achieve some outcome (Reduced traffic, increased taxes, etc.)
 
   
-### Abstract of my third cool idea {-}
+### Abstract of my second cool idea {-}
 
 My second idea aims to bring modern data science techniques to addiction treatment.  The aim is to determine whether mobile usage is a predictor of relapse, and if so, can automatic technology driven intervention serve as an effective deterrent against relapse.  The first stage of the project focuses on answering those research questions, and obtaining the necessary data to do the analysis; a second stage--building a mobile application--would be launched if the initial analysis yields positive results.
 
