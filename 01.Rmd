@@ -19,8 +19,11 @@ Yet with the advent of cloud computing and newer machine learning techniques, th
 
 Upon the completion of the model, states would have the ability to understand their expected  traffic vs. price function, and take steps to more appropriately allign reality with the state's societal and economic goals.  If implemented, the expectation would be an increase in economic activity, and a reduction in lost time.  Yet this proposal is not without flaws, primarily stemming from the potential inequity this solution might create.  Those at the bottom of the socio-economic ladder may find themselves in a position where they are unable to travel during certain times because the system is price prohibitive.  There are many potential solutions to this issue, including a cap and trade program, tax credits, and entitlement programs which would provide resources for travel to those in need, however identifying the correct approach is beyond the scope of this proposal.   In summary, we are witnessing the tragedy of the commons manifest itself in our highways system, but a data driven, dynamic pricing system can help correct preference misallignment, which in turn will yield numerous positive benefits.
 
-Additional Information:
-http://ucelinks.cdlib.org:8888/sfx_local?ID=doi:10.1016%2Fj.tra.2016.10.005&genre=article&atitle=Time-dependent%20congestion%20pricing%20system%20for%20large%20networks%3A%20Integrating%20departure%20time%20choice%2C%20dynamic%20traffic%20assignment%20and%20regional%20travel%20surveys%20in%20the%20Greater%20Toronto%20Area&title=Transportation%20Research%20Part%20A&issn=09658564&isbn=&volume=94&issue=&date=20161201&aulast=Aboudina,%20Aya&spage=411&pages=411-430&sid=EBSCO:ScienceDirect:S0965856416300076
+## Bibliography
 
+LBJ TEXpress Lanes Overview and Maps. (n.d.). Retrieved February 06, 2018, from http://www.lbjtexpress.com/using-lbj-texpress-lanes/lbj-texpress-lanes-overview
 
+Project Background. (n.d.). Retrieved February 06, 2018, from https://www.expresslanes.com/project-background
+
+INRIX. (2014, October 14). INRIX. (2014, October 14). AMERICANS WILL WASTE $2.8 TRILLION ON TRAFFIC BY 2030 IF GRIDLOCK PERSISTS [Press release]. Retrieved February 6, 2018, from AMERICANS WILL WASTE $2.8 TRILLION ON TRAFFIC BY 2030 IF GRIDLOCK PERSISTS [Press release]. Retrieved October 6, 2018, from http://inrix.com/press-releases/americans-will-waste-2-8-trillion-on-traffic-by-2030-if-gridlock-persists/
 
