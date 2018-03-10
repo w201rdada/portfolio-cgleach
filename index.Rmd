@@ -33,13 +33,11 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 ### Abstract of my first cool idea {-}
 
 My first idea revolves around the use of new data science techniques to solve one of the biggest challenges in urban planning: Traffic!  The aim is to use cutting edge techniques to empower stakeholders to employ dynamic pricing in order to achieve some outcome (Reduced traffic, increased taxes, etc.)
-### Abstract of my second cool idea {-}
 
-My second idea aims to bring modern data science techniques to addiction treatment.  The aim is to determine whether mobile usage is a predictor of relapse, and if so, can automatic technology driven intervention serve as an effective deterrent against relapse.  The first stage of the project focuses on answering those research questions, and obtaining the necessary data to do the analysis; a second stage--building a mobile application--would be launched if the initial analysis yields positive results.
   
 ### Abstract of my third cool idea {-}
 
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
+My second idea aims to bring modern data science techniques to addiction treatment.  The aim is to determine whether mobile usage is a predictor of relapse, and if so, can automatic technology driven intervention serve as an effective deterrent against relapse.  The first stage of the project focuses on answering those research questions, and obtaining the necessary data to do the analysis; a second stage--building a mobile application--would be launched if the initial analysis yields positive results.
 
 ## About the author {-}
 
