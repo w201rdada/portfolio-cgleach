@@ -6,7 +6,7 @@ Dynamic pricing, traffic, congestion, jam
 
 ## A beginning.
 <!--Check your comments, these headings should have been changed.-->
-Over the past decade the United States has seen a sustained trend of individuals moving from the periphery into urban centers.  Unfortunately, the infastructure required to accomodate these demographic shifts has not been built, and as a result traffic has increased.  And while it may be easy to forget, traffic doesn't simply cause emotional and mental anguish!  In 2013 The Centre for Economics and Business Research, in collaboration with INRIX, released a study that estimated the cost of congestion to be $1,700 for a car owning household (Source).  Given the material nature of this issue, solutions must be discovered.
+Over the past decade the United States has seen a sustained trend of individuals moving from the periphery into urban centers.  Unfortunately, the infastructure required to accomodate these demographic shifts has not been built, and as a result traffic has increased.  And while it may be easy to forget, traffic doesn't simply cause emotional and mental anguish!  In 2013 researchers estimated the cost of congestion to be $1,700 for a car owning household (INRIX).  Given the material nature of this issue, solutions must be discovered.
 
 
 ## A middle.
