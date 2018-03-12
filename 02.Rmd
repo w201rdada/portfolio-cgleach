@@ -1,4 +1,4 @@
-# A 21st Century Approach to Treating Addiction {#Relapse Prediction}
+# A 21st Century Approach to Addiction {#Relapse Prediction}
 
 #### Keywords {-}
 
@@ -43,4 +43,6 @@ In the end, it may be possible that the dynamics of addiction are too complex to
 National Institute of Drug Abuse. (2017, September 15). Overdose Death Rates. Retrieved March 09, 2018, from https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates
 
 National Institute of Drug Abuse. (2017, April 24). Trends & Statistics. Retrieved March 09, 2018, from https://www.drugabuse.gov/related-topics/trends-statistics
+
+Ingraham, C. (2017, August 11). One in eight American adults is an alcoholic, study says. Retrieved March 12, 2018, from https://www.washingtonpost.com/news/wonk/wp/2017/08/11/study-one-in-eight-american-adults-are-alcoholics/?utm_term=.76cf07a0edf3
 
