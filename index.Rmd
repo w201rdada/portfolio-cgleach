@@ -32,15 +32,15 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 
 ### Abstract of my first cool idea {-}
 
-My first idea revolves around the use of new data science techniques to solve one of the biggest challenges in urban planning: Traffic!  The aim is to use cutting edge techniques to empower states and municipalities to employ dynamic pricing in order to achieve their policy objectives (Reduced traffic, increased taxes, etc.). 
+My first idea revolves around the use of new data science techniques to solve one of the biggest challenges in urban planning: Traffic!  The aim is to use cutting edge techniques to empower states and municipalities to employ dynamic pricing in order to achieve their policy objectives (Reduced traffic, increased taxes, etc.).  This piece explores the rationale for dynamic pricing and the methodology which would be employed.
 
   
 ### Abstract of my second cool idea {-}
 
-My second idea aims to bring modern data science techniques to addiction treatment.  The aim is to determine whether mobile usage is a predictor of relapse, and if so, can automatic technology driven intervention serve as an effective deterrent against relapse.  The first stage of the project focuses on answering those research questions, and obtaining the necessary data to do the analysis; a second stage--building a mobile application--would be launched if the initial analysis yields positive results.
+My second idea aims to bring modern data science techniques to addiction treatment.  The aim is to determine whether mobile usage is a predictor of relapse, and if so, can automatic technology enabled intervention serve as an effective deterrent against relapse.  The first stage of the project focuses on answering the aforementioned research questions, and obtaining the necessary data to do the analysis; a second stage--building a mobile application--would be launched if the initial analysis yields positive results.
 
 ## About the author {-}
 
-Clayton Leach is a student in the Berkeley MIDS program in the Spring 2018 Cohort.  He lives in Philadelphia, PA  (Go Eagles!) where he works in advertising technology as a Product Analyst.  Prior to entering the adtech space Clayton worked in Finance, first for a mortgage servicing firm in California, and later for an asset mangement firm in Connecticut; upon completion of the MIDS program Clayton hopes to gain employment as a data science. In his free time Clayton enjoys rock climbing, tennis, and skiing.
+Clayton Leach is a student in the Berkeley MIDS program in the Spring 2018 Cohort.  He lives in Philadelphia, PA  (Go Eagles!) where he works in advertising technology as a Product Analyst.  Prior to entering the adtech space Clayton worked in Finance, first for a mortgage servicing firm in California, and later for an asset mangement firm in Connecticut; upon completion of the MIDS program Clayton hopes to gain employment as a data science. In his free time Clayton enjoys rock climbing, tennis, and skiing!
 
 *Updated: `r Sys.Date()`*
