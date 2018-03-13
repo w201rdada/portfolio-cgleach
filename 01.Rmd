@@ -8,7 +8,7 @@ Dynamic pricing, traffic, congestion, jam
 <!--Check your comments, these headings should have been changed.-->
 Over the past decade the United States has seen a sustained trend of individuals moving from the periphery into urban centers.  Unfortunately, the infrastructure required to accommodate these demographic shifts has not been built, and as a result traffic has increased.  And while it may be easy to forget, traffic doesn't simply cause emotional and mental anguish!  In 2013 researchers estimated the cost of congestion to be $1,700 for a car owning household (INRIX).  
 
-```{r Rising Alcoholism Rates,echo=FALSE,fig.align='center',out.width='50%'}
+```{r Traffic Frustration,echo=FALSE,fig.align='center',out.width='50%'}
 knitr::include_graphics('img/HOPE-FRUSTRATION.png')
 ```
 
@@ -19,7 +19,7 @@ In the absence of massive infrastructure investment, states and municipalities m
 #### Why Dynamic Pricing
 Dynamic pricing is not a new concept.  Anyone who has ever used Uber or purchased an airline ticket has experienced dynamic pricing whether they were aware of it or not.  Companies use dynamic pricing because it allows them to match demand with supply, ensuring they maximize profits.  
 
-```{r Rising Alcoholism Rates,echo=FALSE,fig.cap='("Out with the old, in with the new",2017)',fig.align='center',out.width='50%'}
+```{r Economics of Dynamic Pricing,echo=FALSE,fig.cap='("Out with the old, in with the new",2017)',fig.align='center',out.width='50%'}
 knitr::include_graphics('img/dynamic-pricing.png')
 ```
 
