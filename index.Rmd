@@ -32,7 +32,7 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 
 ### Abstract of my first cool idea {-}
 
-My first idea revolves around the use of new data science techniques to solve one of the biggest challenges in urban planning: Traffic!  The aim is to use cutting edge techniques to empower stakeholders to employ dynamic pricing in order to achieve some outcome (Reduced traffic, increased taxes, etc.)
+My first idea revolves around the use of new data science techniques to solve one of the biggest challenges in urban planning: Traffic!  The aim is to use cutting edge techniques to empower states and municipalities to employ dynamic pricing in order to achieve their policy objectives (Reduced traffic, increased taxes, etc.). 
 
   
 ### Abstract of my second cool idea {-}
@@ -41,6 +41,6 @@ My second idea aims to bring modern data science techniques to addiction treatme
 
 ## About the author {-}
 
-Clayton Leach is a student in the Berkeley MIDS program in the Spring 2018 Cohort.  He lives in Philadelphia, PA  (Go Eagles!) where he works in advertising technology as a product analyst.  Upon completion of the MIDS program Clayton hopes to gain employment as a data science.
+Clayton Leach is a student in the Berkeley MIDS program in the Spring 2018 Cohort.  He lives in Philadelphia, PA  (Go Eagles!) where he works in advertising technology as a Product Analyst.  Prior to entering the adtech space Clayton worked in Finance, first for a mortgage servicing firm in California, and later for an asset mangement firm in Connecticut; upon completion of the MIDS program Clayton hopes to gain employment as a data science. In his free time Clayton enjoys rock climbing, tennis, and skiing.
 
 *Updated: `r Sys.Date()`*
