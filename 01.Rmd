@@ -19,7 +19,7 @@ In the absence of massive infrastructure investment, states and municipalities m
 #### Why Dynamic Pricing
 Dynamic pricing is not a new concept.  Anyone who has ever used Uber or purchased an airline ticket has experienced dynamic pricing whether they were aware of it or not.  Companies use dynamic pricing because it allows them to match demand with supply, ensuring they maximize profits.  
 
-```{r Economics of Dynamic Pricing,echo=FALSE,fig.cap='("Out with the old, in with the new",2017)',fig.align='center',out.width='50%'}
+```{r echo=FALSE,fig.cap='("Out with the old, in with the new",2017)',fig.align='center',out.width='50%'}
 knitr::include_graphics('img/dynamic-pricing.png')
 ```
 
