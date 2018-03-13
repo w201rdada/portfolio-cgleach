@@ -8,6 +8,8 @@ Dynamic pricing, traffic, congestion, jam
 <!--Check your comments, these headings should have been changed.-->
 Over the past decade the United States has seen a sustained trend of individuals moving from the periphery into urban centers.  Unfortunately, the infastructure required to accomodate these demographic shifts has not been built, and as a result traffic has increased.  And while it may be easy to forget, traffic doesn't simply cause emotional and mental anguish!  In 2013 researchers estimated the cost of congestion to be $1,700 for a car owning household (INRIX).  
 
+knitr::include_graphics('img/HOPE-FRUSTRATION.png')
+
 In the absense of massive infastructure investment, states and municipalities must begin to consider alternatives to reduce both the direct and indirect costs of traffic.  This proposal will outline both the rationale and methodology for taking a data science approach to dynamic pricing--charging cars a variable rate to drive on a highway--which has the potential to drastically modify the current urban landscape.
 
 ## Dynamic Pricing: The how and why
@@ -15,6 +17,7 @@ In the absense of massive infastructure investment, states and municipalities mu
 #### Why Dynamic Pricing
 Dynamic pricing is not a new concept.  Anyone who has ever used Uber or purchased an airline ticket has experienced dynamic pricing whether they were aware of it or not.  Companies use dynamic pricing because it allows them to match demand with supply, ensuring they maximize profits.  
 
+knitr::include_graphics('img/dynamic-pricing.png')
 
 States and municipalities can take a similar approach, setting tolls so that the number of drivers willing to pay the toll at a given point in time (demand) matches the number of cars the highway can handle without traffic (supply).  Implementing this strategy would force price discovery, with individuals who are willing to pay more doing so, while providing those who could chooes to drive at a different time the option to save money.  If done correctly, this has the potential to significantly reduce traffic while raising money which can be used to fund infastructure projects.  Given the aformentioned costs of congestion, the ability for a city or state to reduce traffic is an extremely attractive value proposition.
 
