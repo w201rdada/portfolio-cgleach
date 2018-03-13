@@ -83,8 +83,7 @@
 <li class="divider"></li>
 <li><a href="https://github.com/cgleach" target="blank">GitHub</a></li>
 <li><a href="https://www.ischool.berkeley.edu/people/clayton-leach" target="blank">UC Berkeley</a></li>
-<li><a href="https://www.linkedin.com/in/clay-leach/" target="blank">LinkedIn</a></li>
-<li><a href="https://www.wired.com/2013/02/friendster-autopsy/" target="blank">Friendster</a></li>        
+<li><a href="https://www.linkedin.com/in/clay-leach/" target="blank">LinkedIn</a></li>     
 
 </ul>
 
@@ -118,23 +117,23 @@
 </div>
 <div id="dynamic-pricing-the-how-and-why" class="section level2">
 <h2><span class="header-section-number">1.2</span> Dynamic Pricing: The how and why</h2>
-<div id="why-dynamic-pricing" class="section level4">
-<h4><span class="header-section-number">1.2.0.1</span> Why Dynamic Pricing</h4>
+<div id="why-dynamic-pricing" class="section level3">
+<h3><span class="header-section-number">1.2.1</span> Why Dynamic Pricing</h3>
 <p>Dynamic pricing is not a new concept. Anyone who has ever used Uber or purchased an airline ticket has experienced dynamic pricing whether they were aware of it or not. Companies use dynamic pricing because it allows them to match demand with supply, ensuring they maximize profits.</p>
-<div class="figure" style="text-align: center">
+<div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-1"></span>
 <img src="img/dynamic-pricing.png" alt="(&quot;Out with the old, in with the new&quot;,2017)" width="50%" />
 <p class="caption">
-(#fig:Economics of Dynamic Pricing)(“Out with the old, in with the new”,2017)
+Figure 1.1: (“Out with the old, in with the new”,2017)
 </p>
 </div>
 <p>States and municipalities can take a similar approach, setting tolls so that the number of drivers willing to pay the toll at a given point in time (demand) matches the number of cars the highway can handle without traffic (supply). Implementing this strategy would force price discovery, with individuals who are willing to pay more doing so, while providing those who could choose to drive at a different time the option to save money. If done correctly, this has the potential to significantly reduce traffic while raising money which can be used to fund infrastructure projects. Given the aforementioned costs of congestion, the ability for a city or state to reduce traffic is an extremely attractive value proposition.</p>
 </div>
-<div id="but-how-will-we-know-the-correct-price" class="section level4">
-<h4><span class="header-section-number">1.2.0.2</span> But how will we know the correct price?</h4>
+<div id="but-how-will-we-know-the-correct-price" class="section level3">
+<h3><span class="header-section-number">1.2.2</span> But how will we know the correct price?</h3>
 <p>The million dollar question is not whether dynamic pricing should be used, but how to actually set toll prices to achieve the desired level of traffic. To do this a complex model capable of predicting traffic given a variety of inputs–price, weather, day, time, etc.– must be created. And this is not a new idea; academics have considered this problem and attempted to analyze different methodologies and frameworks for years. Additionally, several states have already begun testing versions of this strategy: In Texas the TEXpress program uses variable pricing in certain highways with the aim of maintaining an average traffic speed on 50 MPH (“LBJ TEXpress Lanes”, 2018), and in Virginia public-private partnerships were formed to yield new variable pricing lanes on I95 an I495 (“Project Background”,2018). These programs demonstrate the feasibility and success of a dynamic approach, yet given the rapid advancements in data science and cloud computing there is opportunity to improve upon previous research and pricing models.</p>
 </div>
-<div id="model-methodology" class="section level4">
-<h4><span class="header-section-number">1.2.0.3</span> Model Methodology</h4>
+<div id="model-methodology" class="section level3">
+<h3><span class="header-section-number">1.2.3</span> Model Methodology</h3>
 <p>This project would begin by gathering publicly available traffic, weather, demographic, pricing, and “event” (e.g. concert) data to build the initial model. Two approaches would initially be tested, 1) a neural net, and 2) a boosted decision tree, with the more predictive model being used in production. But that is only stage one! The exciting part begins when states begin to implement this new model, as new data would feed back into the system, helping to improve the efficacy of the initial algorithm. This in turn would serve as incentive for additional states and cities to adopt this offering, creating a positive feedback loop. Because this project calls for ingesting large amounts of data, a robust storage and machine learning stack will be required that can easily scale. Given the broad array of services offered, this project will utilize AWS, both for computation and data storage (S3).</p>
 </div>
 </div>
