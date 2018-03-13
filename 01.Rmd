@@ -17,7 +17,7 @@ In the absense of massive infastructure investment, states and municipalities mu
 #### Why Dynamic Pricing
 Dynamic pricing is not a new concept.  Anyone who has ever used Uber or purchased an airline ticket has experienced dynamic pricing whether they were aware of it or not.  Companies use dynamic pricing because it allows them to match demand with supply, ensuring they maximize profits.  
 
-knitr::include_graphics('img/dynamic-pricing.png')
+knitr::include_graphics('img/dynamic-pricing.png',fig.cap='("Out with the old, in with the new",2017)',)
 
 States and municipalities can take a similar approach, setting tolls so that the number of drivers willing to pay the toll at a given point in time (demand) matches the number of cars the highway can handle without traffic (supply).  Implementing this strategy would force price discovery, with individuals who are willing to pay more doing so, while providing those who could chooes to drive at a different time the option to save money.  If done correctly, this has the potential to significantly reduce traffic while raising money which can be used to fund infastructure projects.  Given the aformentioned costs of congestion, the ability for a city or state to reduce traffic is an extremely attractive value proposition.
 
